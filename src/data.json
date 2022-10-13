@@ -1,0 +1,6 @@
+[
+	{
+		"intent": "greet_hello",
+		"response": ["Chào bạn, tôi là bot."]
+	}
+]

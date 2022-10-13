@@ -1,0 +1,53 @@
+{
+	"text": "Hôm nay thời tiết Hồ Chí Minh thế nào ?",
+	"intents": [],
+	"entities": {
+		"temperature:location": [
+			{
+				"id": "6306938832655207",
+				"name": "temperature",
+				"role": "location",
+				"start": 25,
+				"end": 41,
+				"body": "Hồ Chí Minh",
+				"confidence": 0.999,
+				"entities": {},
+				"suggested ": true,
+				"value": "Hồ Chí Minh",
+				"type": "value"
+			}
+		],
+		"temperature:temperature": [
+			{
+				"id": "481493940610716",
+				"name": "temperature",
+				"role": "temperature",
+				"start": 9,
+				"end": 24,
+				"body": "thời tiết",
+				"confidence": 0.999,
+				"entities": {},
+				"suggested": true,
+				"value": "thời tiết",
+				"type": "value"
+			}
+		],
+		"wit$datetime:datetime": [
+			{
+				"id": "1630350667420898",
+				"name": "wit$datetime",
+				"role": "datetime",
+				"start": 0,
+				"end": 7,
+				"body": "Hôm nay",
+				"confidence": 0.9914,
+				"entities": {},
+				"type": "value",
+				"grain": "day",
+				"value": "2022-10-01T00:00:00.000+07:00",
+				"values": [{ "type": "value", "grain": "day", "value": "2022-10-01T00:00:00.000+07:00" }]
+			}
+		]
+	},
+	"traits": {}
+}

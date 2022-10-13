@@ -1,0 +1,22 @@
+Hội thoại 1:
+- Thời tiết hôm nay thế nào ?
+- Thời tiết hiện tại ở Thành phố Hồ Chí Minh là: mây đen u ám. Nhiệt độ 32.1°C.
+
+Hội thoại 2:
+
+- Mua hàng
+- Vui lòng nhập tên hàng.
+- Áo thun Nico Robin
+- Vui lòng nhập chi tiết sản phẩm
+- Trắng / 40
+- Vui lòng nhập số lượng
+- 3
+- Tiếp tục mua hàng ?
+- Tiếp tục
+
+intents: ["Chào hỏi", "Cảm ơn"]
+
+{
+    name: "Chào hỏi",
+    
+}

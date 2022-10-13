@@ -1,0 +1,22 @@
+Token = ZWDDHH4UFSH775RDWIUMF6BIFJPRJIWZ
+Thêm intent
+    https://api.wit.ai/intents?v=20221001
+    {
+        name: "Tên intent"
+    }
+Tạo utterance
+    https://api.wit.ai/utterances?v=20221001
+    [{
+        "text": "I want to fly to sfo",
+        "intent": "flight_request",
+        "entities": [
+          {
+            "entity": "wit$location:to",
+            "start": 17,
+            "end": 20,
+            "body": "sfo",
+            "entities": []
+          }
+        ],
+        "traits": []
+      }]

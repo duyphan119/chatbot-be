@@ -1,0 +1,32 @@
+[
+	{
+		"id": "SP00001",
+		"name": "Sản phẩm A",
+		"price": 450000,
+		"categoryId": 1
+	},
+	{
+		"id": "SP00002",
+		"name": "Sản phẩm B",
+		"price": 420000,
+		"categoryId": 2
+	},
+	{
+		"id": "SP00003",
+		"name": "Sản phẩm C",
+		"price": 350000,
+		"categoryId": 2
+	},
+	{
+		"id": "SP00004",
+		"name": "Sản phẩm D",
+		"price": 250000,
+		"categoryId": 1
+	},
+	{
+		"id": "SP00005",
+		"name": "Sản phẩm E",
+		"price": 500000,
+		"categoryId": 1
+	}
+]
